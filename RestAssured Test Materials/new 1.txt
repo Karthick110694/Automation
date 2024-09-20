@@ -1,0 +1,3 @@
+Rest Assured:
+
+Read file from local -> convert into Byte -> convert into String
